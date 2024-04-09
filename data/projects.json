@@ -1,0 +1,14 @@
+{
+    "list": [
+        {
+            "name": "Duoduo Eating",
+            "url": "https://github.com/orgdown/duoduo_eating",
+            "desc": "For baby feed app"
+        },
+        {
+            "name": "Inkresi TCMS",
+            "url": "https://github.com/inkresi/inkresi-tcms",
+            "desc": "a test case management tools for agile development"
+        }
+    ]
+}
